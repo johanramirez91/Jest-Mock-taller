@@ -1,5 +1,5 @@
 import * as app from "../src/App";
-import * as math from "../src/math";
+import * as math from "../src/components/math";
 
 // Set all module functions to jest.fn
 jest.mock("./math.js");

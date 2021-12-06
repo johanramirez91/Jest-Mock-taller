@@ -1,4 +1,4 @@
-import * as math from './math.js';
+import * as math from './components/math.js';
 
 function App() {
   return (
