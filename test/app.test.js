@@ -1,4 +1,4 @@
-import * as app from "./app";
+import * as app from './App';
 import * as math from "./math";
 
 math.add = jest.fn();
